@@ -22,7 +22,8 @@ class Cfg extends Place{
         "cfgLanguageUk": "uk",
         "cfgLanguageRu": "ru",
         "cfgLanguageTr": "tr",
-        "cfgLanguageEl": "el"
+        "cfgLanguageEl": "el",
+        "cfgLanguageIt": "it"
         };
     
     // Constructor
@@ -102,6 +103,7 @@ class Cfg extends Place{
             "cfgLanguageEl", "Greek (by VagosLabrou)",
             "cfgLanguageHu", "Hungarian (by The_Reaper_CooL)",
             "cfgLanguageId", "Indonesian (by Richard Sudaryono)",
+            "cfgLanguageIt", "Italian (by Federico Stella (ilceltico))",
             "cfgLanguageKr", "Korean (by jiyeonnn03)",
             "cfgLanguagePl", "Polish (by Patryk Połomski)",
             "cfgLanguageRu", "Russian (by Julia Richter (Zen Chelios Jr.))",
